@@ -1,1 +1,0 @@
-console.log('Interactive infographic loaded');
